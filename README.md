@@ -22,7 +22,7 @@ Skills:
 Java  ∙  PostgreSQL  ∙  Spring Boot ∙  Unit Testing (JUnit)  ∙  HTML  ∙  CSS  ∙  JavaScript  ∙  Vue.js   ∙  Responsive Design   ∙  JSON   ∙  Git   ∙  IntelliJ 
 🔭 My team's capstone projects included: TEnmo – an online payment and money transfer service and Ninja Flashcards - a Quizlet-like application for study cards, implementing a RESTful API MVC design and a PostgreSQL database, and Vue.js.
 
-I have always loved learning, so it is no surprise that I was not just pulled in a single direction, but was interested both in science and in visual arts. I did a doctorate in image engineering and neuroscience (visual perception) researching human vision and especially the mechanisms underlying visual processing of lightness, constrast, as well as the processing of balance in a composition, the role of the elements in the visual field and of attention in forming balance perception.  
+I have always loved learning, so it is no surprise that I am not just pulled in a single direction, but am drawn to both science and visual arts. I did a doctorate in image engineering and neuroscience (visual perception) researching human vision and especially the mechanisms underlying visual processing of lightness, constrast, as well as the processing of balance in a composition, the role of the elements in the visual field and of attention in forming balance perception.  
 My multidisciplinary background enables me to ask novel questions and to think out-of-the-box in many different ways. I am bringing all of that into software development.
 
 ⚡ Fun fact: I practiced Japanese calligraphy for 13 years and love copying calligraphy from ancient manuscripts of Japanese poetry, zen and green tea.
