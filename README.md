@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I graduated from Tech Elevator Philadelphia, where I had the opportunity to work with teams, build backend and frontend applications, design and implement a RESTful API and a PostgreSQL database.
+🌱 I graduated from Tech Elevator Philadelphia, where I had the opportunity to experience agile work with teams, build backend and frontend applications, design and implement a RESTful API and a PostgreSQL database.
 Skills:
 Java  ∙  PostgreSQL  ∙  Spring Boot ∙  Unit Testing (JUnit)  ∙  HTML  ∙  CSS  ∙  JavaScript  ∙  Vue.js   ∙  Responsive Design   ∙  JSON   ∙  Git   ∙  IntelliJ 
 🔭 My team's capstone projects included: TEnmo – an online payment and money transfer service and Ninja Flashcards - a Quizlet-like application for study cards, implementing a RESTful API MVC design and a PostgreSQL database, and Vue.js.
