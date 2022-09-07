@@ -25,7 +25,7 @@ Java  ∙  PostgreSQL  ∙  Spring Boot ∙  Unit Testing (JUnit)  ∙  HTML  �
 I have always loved learning, so it is no surprise that I am not just pulled in a single direction, but am drawn to both science and visual arts. I did a doctorate in image engineering and neuroscience (visual perception) researching human vision and especially the mechanisms underlying visual processing of lightness, constrast, as well as the processing of balance in a composition, the role of the elements in the visual field and of attention in forming balance perception.  
 My multidisciplinary background enables me to ask novel questions and to think out-of-the-box in many different ways. I am bringing all of that into software development.
 
-⚡ Fun fact: I practiced Japanese calligraphy for 13 years and love copying calligraphy from ancient manuscripts of Japanese poetry, zen and green tea.
+⚡ Fun fact: I practiced Japanese calligraphy for 13 years and love ancient manuscripts of Japanese poetry, zen and green tea.
 
 😄 Pronouns: She / They
 📫 How to reach me: sharon.gershoni@gmail.com
